@@ -30,8 +30,9 @@ body {
     width: 100%;
 }
 .puntos {
-    margin-left: 500px;
-    margin-top: 10px;
+    margin-left: 550px;
+    margin-top: 25px;
+    font-size: 50px;
 }
 .cabecera {
     font-size: 25px;
@@ -52,9 +53,9 @@ body {
     height: 95%;
     margin-top: 1px;
 }
-.poop {
+.bookmark {
     display: flex;
-    margin-left: 550px;
+    margin-left: 575px;
     width: 100%;
     margin-top: 1px;
 }
@@ -76,8 +77,4 @@ body {
 }
 .bottom-paragraph p {
     margin: 0; 
-   
-}
-.fa-poo {
-    font-size: 90%;
 }
